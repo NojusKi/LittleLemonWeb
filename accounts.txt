@@ -1,0 +1,9 @@
+superuser
+nojus
+nojus@123
+
+user
+test@little.com
+test
+lemon123
+auth token: b94988da3e58ce05c251ea24ba714327a438cf80
